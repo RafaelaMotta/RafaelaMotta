@@ -1,6 +1,6 @@
 ### Olá  👋
 Hello my name is Rafaela, I am a student of System Development Analysis.
-- ✔ I am currently learning HTML CSS and JAVASCRIPT
+- ✔ I am currently learning HTML CSS JAVASCRIPT and NODE.JS
 - 💻 ⌛ Front End Developer 
 - <a href="https://gmail.google.com/gmail/u/rafaelamotta2016@gmail.com "> ✉ Email</a>
 - <a href="https://www.linkedin.com/in/rafaela-motta-a7b9b51bb">✎ My social networks</a>
