@@ -1,8 +1,8 @@
 ### Hello my name is Rafaela  👋
 
-- 👩‍🎓 I am a student of System Development Analysis.
-- ✔ I am currently learning HTML CSS JAVASCRIPT and NODE.JS
-- 💻 ⌛ Front End Developer 
+- 👩‍🎓  I am a student of System Development Analysis.
+- ✔ I am currently learning JAVASCRIPT and NODE.JS
+- 💻 Front End Developer 
 
 
 <div>
