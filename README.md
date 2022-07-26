@@ -1,7 +1,3 @@
-### Hello my name is Rafaela  👋
-- 💻 Front End Developer 
-- 👩‍🎓  I am a student of System Development Analysis.
-
 <div>
   <a href="https://github.com/RafaelaMotta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelaMotta&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
